@@ -2,7 +2,7 @@
 
 Zatím jsme jen zobrazovali data, dnes je konečně začneme také upravovat. Použijeme k tomu HTML formuláře. 
 
-1. Udělej fork zdrojového repository do svého účtu na GitHubu.
+1. Použij toto repository jako šablonu (Use this template), ze které si vytvoříš repository ve svém účtu na GitHubu.
 1. Naklonuj si repository **ze svého účtu** na GitHubu na lokální počítač.
 
 ## Zadání pro lekci
