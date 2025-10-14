@@ -24,4 +24,12 @@ Zatím jsme jen zobrazovali data, dnes je konečně začneme také upravovat. Po
 1. Na konci metody controlleru opět proveď přesměrování zpět na úvodní stránku aplikace (POST-redirect-GET), aby se zobrazil seznam osob. Seznam se zobrazí už bez smazané osoby.
 
 ## Odkazy
-* [Lekce 5](https://java.czechitas.cz/2024-jaro/java-2-online/lekce-5.html)
+* [Lekce 5](https://java.czechitas.cz/2025-podzim/java-2-online/lekce-5.html)
+* Java SE 21 [Javadoc](https://docs.oracle.com/en/java/javase/21/docs/api/java.base/module-summary.html) – dokumentace všech tříd, které jsou součástí základní Javy ve verzi 21.
+* Dokumentace [Spring Boot](https://spring.io/projects/spring-boot#learn) – odsud je anotace `@SpringBootApplication` a třída `SpringApplication`.
+* Dokumentace [Spring Framework](https://spring.io/projects/spring-framework#learn) – odsud jsou anotace `@Controller`, `@GetMapping` a třída `ModelAndView`.
+* Dokumentace [Freemarker](https://freemarker.apache.org/docs/) – šablonovací systém pro HTML použitý v projektu.
+* Dokumentace [HTML formulářů](https://developer.mozilla.org/en-US/docs/Learn/Forms)
+* [Bootstrap](https://getbootstrap.com) – jeden z CSS frameworků
+* [Bootstrap Icons](https://icons.getbootstrap.com) – sada ikon pro použití na webu
+
