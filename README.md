@@ -20,7 +20,7 @@ Zatím jsme jen zobrazovali data, dnes je konečně začneme také upravovat. Po
 1. Uprav stránku se seznamem osob tak, že kolem tlačítka pro smazání záznamu vytvoříš formulář. Tento formulář nebude vidět, bude v něm ale `input` typu `hidden`, ve kterém bude uložené `id` záznamu, který chceme smazat.
 1. Formulář se bude odesílat metodou `post` na adresu `/delete`.
 1. Implementuj metodu controlleru pro metodu `POST` napojenou na adresu `/delete`, jako parametr bude očekávat číselný identifikátor záznamu, který se má smazat.
-1. V metodě controlleru použij metodu `FamousPeopleService.deletById`, která už je ve službě implementovaná.
+1. V metodě controlleru použij metodu `FamousPeopleService.deleteById`, která už je ve službě implementovaná.
 1. Na konci metody controlleru opět proveď přesměrování zpět na úvodní stránku aplikace (POST-redirect-GET), aby se zobrazil seznam osob. Seznam se zobrazí už bez smazané osoby.
 
 ## Odkazy
